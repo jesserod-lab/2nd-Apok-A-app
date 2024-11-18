@@ -1,0 +1,16 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Allow read access to the 'admin/passcode' document for everyone (not recommended for production)
+    match /admin/passcode {
+      allow read: if true;
+    }
+
+    // Deny write access to everything
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
