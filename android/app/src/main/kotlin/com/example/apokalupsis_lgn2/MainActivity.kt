@@ -1,4 +1,4 @@
-package com.example.apokalupsis_lgn2
+package com.judah.apokalupsis
 
 import io.flutter.embedding.android.FlutterActivity
 

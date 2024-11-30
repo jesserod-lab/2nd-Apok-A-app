@@ -3,7 +3,7 @@
     "project_number": "385419804992",
     "firebase_url": "https://apokalupsis-lgn-63b31-default-rtdb.firebaseio.com",
     "project_id": "apokalupsis-lgn-63b31",
-    "storage_bucket": "apokalupsis-lgn-63b31.appspot.com" 
+    "storage_bucket": "apokalupsis-lgn-63b31.appspot.com"
   },
   "client": [
     {
@@ -11,6 +11,25 @@
         "mobilesdk_app_id": "1:385419804992:android:ebc493d32c73f05b56baa5",
         "android_client_info": {
           "package_name": "com.example.apokalupsis_lgn2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAix2k2Qbg3_TMxGl_F4zm5cCByLxa5Oaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385419804992:android:c9a4ff71ed1ba9be56baa5",
+        "android_client_info": {
+          "package_name": "com.judah.apokalupsis"
         }
       },
       "oauth_client": [],

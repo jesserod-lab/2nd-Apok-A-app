@@ -48,7 +48,7 @@ class AdminLoginPageState extends State<AdminLoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Admin Login'), 
+        title: const Text('Admins with limited access'), 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),

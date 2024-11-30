@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.apokalupsis_lgn2">
+    package="com.judah.apokalupsis">
 
     <!-- Add permissions here -->
     <uses-permission android:name="android.permission.INTERNET"/>
